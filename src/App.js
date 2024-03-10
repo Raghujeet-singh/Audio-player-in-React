@@ -120,7 +120,7 @@ const AudioPlayer = () => {
           {playlist[currentTrackIndex]?.name} - {Math.floor(currentTime)} seconds
         </p>
       </div>
-      <p className='owner'>CDevops CopyRights @ 2024</p>
+      <p className='owner'>Raghujeet Singh CopyRights @ 2024</p>
     </div>
   );
 };
